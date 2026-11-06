@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nev": "Kovács Péter",
+          "osztaly": "11.A",
+          "eletkor": 17,
+          "aktiv": true
+        },
+        {
+          "id": 2,
+          "nev": "Nagy Anna",
+          "osztaly": "11.B",
+          "eletkor": 18,
+          "aktiv": true
+        },
+        {
+          "id": 3,
+          "nev": "Szabó Márk",
+          "osztaly": "12.A",
+          "eletkor": 19,
+          "aktiv": false
+        },
+        {
+          "id": 4,
+          "nev": "Tóth Eszter",
+          "osztaly": "11.A",
+          "eletkor": 17,
+          "aktiv": true
+        },
+        {
+          "id": 5,
+          "nev": "Horváth Bence",
+          "osztaly": "12.B",
+          "eletkor": 20,
+          "aktiv": false
+        }
+    ]
+}
